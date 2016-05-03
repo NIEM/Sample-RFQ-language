@@ -18,9 +18,9 @@ Some sample overview language an organization could leverage to provide context 
 ## Sample Federal Agency Guidance
 The Department of Defense put out an enterprise-wide memo encouraging the use of NIEM that included: 
 
-DoD organizations shall first consider NIEM for their information sharing solutions when deciding which data exchange standards or specifications meet their mission and operational needs. Every effort shall be made to ensure that a rigorous analysis of NIEM be conducted as a part of this consideration.
+*DoD organizations shall first consider NIEM for their information sharing solutions when deciding which data exchange standards or specifications meet their mission and operational needs. Every effort shall be made to ensure that a rigorous analysis of NIEM be conducted as a part of this consideration.*
 
-The adoption of NIEM as a common standards-based data exchange may present challenges to some DoD stakeholders, particularly when viewed from the perspective of an individual program. In those situations where an organization's design goals and requirements are not fulfilled by NIEM, the organization shall provide justification why the use of NIEM is not feasible; exceptions may be granted by the DoD CIO. In such cases, an organization shall use an alternative or complementary data standard that is interoperable with NIEM.
+*The adoption of NIEM as a common standards-based data exchange may present challenges to some DoD stakeholders, particularly when viewed from the perspective of an individual program. In those situations where an organization's design goals and requirements are not fulfilled by NIEM, the organization shall provide justification why the use of NIEM is not feasible; exceptions may be granted by the DoD CIO. In such cases, an organization shall use an alternative or complementary data standard that is interoperable with NIEM.*
 
 You can access the DoD memo at: http://dodcio.defense.gov/Portals/0/Documents/2013-03-28%20Adoption%20of%20the%20NIEM%20within%20the%20DoD.pdf
 
